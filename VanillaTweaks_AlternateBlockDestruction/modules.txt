@@ -1,7 +1,0 @@
-Faithful Tweaks generated pack
-Version: 1.16.2
-
-Packs:
-    AlternateDestruction
-
-HUD Packs:

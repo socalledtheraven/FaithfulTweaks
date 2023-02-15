@@ -1,0 +1,54 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/dirt/block/0"
+      },
+      {
+        "model": "block/dirt/block/1"
+      },
+      {
+        "model": "block/dirt/block/2"
+      },
+      {
+        "model": "block/dirt/block/3"
+      },
+      {
+        "model": "block/dirt/block/4"
+      },
+      {
+        "model": "block/dirt/block/5"
+      },
+      {
+        "model": "block/dirt/block/6"
+      },
+      {
+        "model": "block/dirt/block/7"
+      },
+      {
+        "model": "block/dirt/block/8"
+      },
+      {
+        "model": "block/dirt/block/9"
+      },
+      {
+        "model": "block/dirt/block/10"
+      },
+      {
+        "model": "block/dirt/block/11"
+      },
+      {
+        "model": "block/dirt/block/12"
+      },
+      {
+        "model": "block/dirt/block/13"
+      },
+      {
+        "model": "block/dirt/block/14"
+      },
+      {
+        "model": "block/dirt/block/15"
+      }
+    ]
+  }
+}

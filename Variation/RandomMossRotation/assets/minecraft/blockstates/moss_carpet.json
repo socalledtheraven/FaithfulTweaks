@@ -1,0 +1,14 @@
+{
+	"variants": {
+        "": [
+      { "model": "minecraft:block/moss_carpet",
+        "y": 0 },
+      { "model": "minecraft:block/moss_carpet",
+        "y": 90 },
+      { "model": "minecraft:block/moss_carpet",
+        "y": 180 },
+      { "model": "minecraft:block/moss_carpet",
+        "y": 270 }
+        ]
+    }
+}

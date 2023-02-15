@@ -1,0 +1,54 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/coarse_dirt/block/0"
+      },
+      {
+        "model": "block/coarse_dirt/block/1"
+      },
+      {
+        "model": "block/coarse_dirt/block/2"
+      },
+      {
+        "model": "block/coarse_dirt/block/3"
+      },
+      {
+        "model": "block/coarse_dirt/block/4"
+      },
+      {
+        "model": "block/coarse_dirt/block/5"
+      },
+      {
+        "model": "block/coarse_dirt/block/6"
+      },
+      {
+        "model": "block/coarse_dirt/block/7"
+      },
+      {
+        "model": "block/coarse_dirt/block/8"
+      },
+      {
+        "model": "block/coarse_dirt/block/9"
+      },
+      {
+        "model": "block/coarse_dirt/block/10"
+      },
+      {
+        "model": "block/coarse_dirt/block/11"
+      },
+      {
+        "model": "block/coarse_dirt/block/12"
+      },
+      {
+        "model": "block/coarse_dirt/block/13"
+      },
+      {
+        "model": "block/coarse_dirt/block/14"
+      },
+      {
+        "model": "block/coarse_dirt/block/15"
+      }
+    ]
+  }
+}

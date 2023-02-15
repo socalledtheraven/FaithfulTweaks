@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/mangrove_planks" },
+      { "model": "block/mangrove_planks_01" },
+      { "model": "block/mangrove_planks_02" },
+      { "model": "block/mangrove_planks_03" },
+      { "model": "block/mangrove_planks_04" },
+      { "model": "block/mangrove_planks_05" }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+Vanilla Tweaks Resource Pack
+Version: 1.19
+Packs:
+	BrewingGuide
+	FullAgeCropMarker
+	RedstonePowerLevels
+	SofterWool
+	DarkOakSaturation
+	PolishedStonesToBricks
+	SmoothCoarseDirt
+	SmoothDirt
+	ClearerWater
+	DarkerDarkOakLeaves
+	WarpedNyliumSides
+	PodzolSides
+	GrassSides
+	MyceliumSides
+	SnowSides
+	CrimsonNyliumSides
+	PathSides
+	WhatSpyglassMeme
+	CleanGlass
+	CleanStainedGlass

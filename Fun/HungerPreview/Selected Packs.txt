@@ -1,0 +1,16 @@
+Vanilla Tweaks Resource Pack
+Version: 1.19
+Packs:
+	HungerPreview
+	OreBorders
+	OceanPanorama
+	AncientDebrisBG
+	Bedrock
+	MoreCrosshairs-Circle
+	3DSunMoon
+	ShortSwords
+	InvisibleTotem
+	SplashXpBottle
+	EnderDragonElytra
+	ClassicNetheriteArmor
+	GoldenCrown

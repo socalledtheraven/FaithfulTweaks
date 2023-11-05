@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Adds Alex Zombie, Husks, and Drowned to the game, along with the regular Steve Zombie, Husks, and Drowneds.. Credit to Evorp and Goatman for the Zombie, and Sacha for the Drowned.",
+        "name": "Alex Zombies Faithful 32x (inspired by §lVanilla §eTweaks§r)",
+        "uuid": "4745f5fc-c9bc-430e-abad-e39fb1e7f6fb",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 19, 3 ]
+    },
+    "modules": [
+        {
+            "description": "Adds Alex Zombie, Husks, and Drowned to the game, along with the regular Steve Zombie, Husks, and Drowneds. Credit to Evorp and Goatman for the Zombie, and Sacha for the Drowned.",
+            "type": "resources",
+            "uuid": "004ced98-bf44-464d-994a-f01bf8d82b62",
+            "version": [0, 0, 1]
+        }
+    ]
+}

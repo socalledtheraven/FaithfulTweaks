@@ -1,0 +1,19 @@
+Old Minecraft Logo - Add-on for Faithful 32x/64x 1.20
+Version 1 - 8th July 2023
+
+Copyright © Faithful Resource Pack
+
+
+Add-on made by: Xandar_YT (Discord: @xandaryt).
+
+Textures by: Faithful Team (https://faithfulpack.net).
+
+Made using Wynem Discord Bot by: Ewan Howell.
+
+Licensed according to the Faithful license avaiable in LICENSE.txt.
+
+Do not distribute or mirror without permission.
+
+Do not make money off this in any circumstances.
+
+

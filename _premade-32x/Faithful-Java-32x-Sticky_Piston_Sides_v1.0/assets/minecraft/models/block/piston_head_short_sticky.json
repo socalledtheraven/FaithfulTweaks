@@ -1,0 +1,31 @@
+{
+  "textures": {
+    "platform": "minecraft:block/piston_top_sticky",
+    "side": "minecraft:block/piston_side",
+	"side_sticky": "minecraft:block/piston_side_sticky",
+    "unsticky": "minecraft:block/piston_top",
+	"particle": "minecraft:block/piston_top_sticky"
+  },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 4 ],
+            "faces": {
+                "down":  { "uv": [ 0, 0, 16,  4 ], "texture": "#side_sticky", "cullface": "down", "rotation": 180 },
+                "up":    { "uv": [ 0, 0, 16,  4 ], "texture": "#side_sticky", "cullface": "up" },
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#platform", "cullface": "north" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#unsticky" },
+                "west":  { "uv": [ 0, 0, 16,  4 ], "texture": "#side_sticky", "rotation": 270, "cullface": "west" },
+                "east":  { "uv": [ 0, 0, 16,  4 ], "texture": "#side_sticky", "rotation": 90, "cullface": "east" }
+            }
+        },
+        {   "from": [ 6, 6, 4 ],
+            "to": [ 10, 10, 16 ],
+            "faces": {
+                "down": { "uv": [  4, 0, 16, 4 ], "texture": "#side", "rotation": 90 },
+                "up":   { "uv": [  4, 0, 16, 4 ], "texture": "#side", "rotation": 270 },
+                "west": { "uv": [ 16, 4,  4, 0 ], "texture": "#side" },
+                "east": { "uv": [  4, 0, 16, 4 ], "texture": "#side" }
+            }
+        }
+    ]
+}

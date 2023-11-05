@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "pack_format": 8,
+        "description": [
+            {
+                "text": "Animated Grown Amethyst",
+                "color": "purple"
+            },
+            "\n",
+			{
+                "text": "faithfulpack.net/addons/",
+                "color": "white"
+            }
+
+        ]
+    }
+}

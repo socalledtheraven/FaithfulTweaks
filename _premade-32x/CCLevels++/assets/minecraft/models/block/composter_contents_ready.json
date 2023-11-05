@@ -1,0 +1,21 @@
+{
+	"credit": "Made by Justieboy3",
+	"textures": {
+		"side": "block/cauldron_level_0",
+		"particle": "block/composter_side",
+		"inside": "block/composter_ready"
+	},
+	"elements": [
+		{
+			"from": [1, 1, 1],
+			"to": [15, 15, 15],
+			"faces": {
+				"north": {"uv": [2, 2, 14, 14], "texture": "#inside", "cullface": "up"},
+				"east": {"uv": [2, 2, 14, 14], "texture": "#inside", "cullface": "up"},
+				"south": {"uv": [2, 2, 14, 14], "texture": "#inside", "cullface": "up"},
+				"west": {"uv": [2, 2, 14, 14], "texture": "#inside", "cullface": "up"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#inside", "cullface": "up"}
+			}
+		}
+	]
+}

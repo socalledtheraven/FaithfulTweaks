@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "age=0": { "model": "minecraft:block/sugar_cane_age_0" },
+    "age=1": { "model": "minecraft:block/sugar_cane_age_1" },
+    "age=2": { "model": "minecraft:block/sugar_cane_age_2" },
+    "age=3": { "model": "minecraft:block/sugar_cane_age_3" },
+    "age=4": { "model": "minecraft:block/sugar_cane_age_4" },
+    "age=5": { "model": "minecraft:block/sugar_cane_age_5" },
+    "age=6": { "model": "minecraft:block/sugar_cane_age_6" },
+    "age=7": { "model": "minecraft:block/sugar_cane_age_7" },
+    "age=8": { "model": "minecraft:block/sugar_cane_age_8" },
+    "age=9": { "model": "minecraft:block/sugar_cane_age_9" },
+    "age=10": { "model": "minecraft:block/sugar_cane_age_10" },
+    "age=11": { "model": "minecraft:block/sugar_cane_age_11" },
+    "age=12": { "model": "minecraft:block/sugar_cane_age_12" },
+    "age=13": { "model": "minecraft:block/sugar_cane_age_13" },
+    "age=14": { "model": "minecraft:block/sugar_cane_age_14" },
+    "age=15": { "model": "minecraft:block/sugar_cane_age_15" }
+  }
+}

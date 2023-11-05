@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+				{ "model": "minecraft:block/sandstone"},
+				{ "model": "minecraft:block/sandstone1"},
+				{ "model": "minecraft:block/sandstone2" },
+				{ "model": "minecraft:block/sandstone3", "weight": 5 },
+				{ "model": "minecraft:block/sandstone4"},
+				{ "model": "minecraft:block/sandstone5"}
+		]
+    }
+}

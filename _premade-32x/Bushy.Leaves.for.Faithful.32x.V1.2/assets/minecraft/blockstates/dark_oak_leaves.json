@@ -1,0 +1,25 @@
+{
+	"multipart": [
+		{"apply": {"model": "block/dark_oak_leaves"}},
+		{"apply": [
+			{"model": "block/bushy_dark_oak_leaves"},
+			{"model": "block/bushy_dark_oak_leaves_alt"},
+			{"model": "block/bushy_dark_oak_leaves", "y": 90},
+			{"model": "block/bushy_dark_oak_leaves_alt", "y": 90},
+			{"model": "block/bushy_dark_oak_leaves", "y": 180},
+			{"model": "block/bushy_dark_oak_leaves_alt", "y": 180},
+			{"model": "block/bushy_dark_oak_leaves", "y": 270},
+			{"model": "block/bushy_dark_oak_leaves_alt", "y": 270}]
+		},
+		{"apply": [
+			{"model": "block/bushy_dark_oak_leaves_alt", "y": 90},
+			{"model": "block/bushy_dark_oak_leaves", "y": 90},
+			{"model": "block/bushy_dark_oak_leaves"},
+			{"model": "block/bushy_dark_oak_leaves_alt"},
+			{"model": "block/bushy_dark_oak_leaves_alt", "y": 270},
+			{"model": "block/bushy_dark_oak_leaves", "y": 270},
+			{"model": "block/bushy_dark_oak_leaves", "y": 180},
+			{"model": "block/bushy_dark_oak_leaves_alt", "y": 180}]
+		}
+	]
+}

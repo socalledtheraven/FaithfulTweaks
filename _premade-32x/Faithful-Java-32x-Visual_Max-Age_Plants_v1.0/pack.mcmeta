@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "pack_format": 8,
+        "description": [
+            {
+                "text": "Visual Max-Age Plants",
+                "color": "dark_green"
+            },
+            "\n",
+			{
+                "text": "faithfulpack.net/addons/",
+                "color": "white"
+            }
+
+        ]
+    }
+}

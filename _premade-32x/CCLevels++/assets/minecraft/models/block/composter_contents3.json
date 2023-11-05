@@ -1,0 +1,20 @@
+{
+	"credit": "Made by Justieboy3",
+	"textures": {
+		"particle": "block/composter_side",
+		"inside": "block/composter_compost"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 7, 15],
+			"faces": {
+				"north": {"uv": [2, 2, 14, 8], "texture": "#inside", "cullface": "up"},
+				"east": {"uv": [2, 2, 14, 8], "texture": "#inside", "cullface": "up"},
+				"south": {"uv": [2, 2, 14, 8], "texture": "#inside", "cullface": "up"},
+				"west": {"uv": [2, 2, 14, 8], "texture": "#inside", "cullface": "up"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#inside", "cullface": "up"}
+			}
+		}
+	]
+}

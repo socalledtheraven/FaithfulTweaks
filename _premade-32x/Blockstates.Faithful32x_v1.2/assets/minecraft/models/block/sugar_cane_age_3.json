@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/tinted_cross_long",
+  "textures": {
+    "cross": "minecraft:block/sugar_cane_age_3",
+    "cross2": "minecraft:block/sugar_cane"
+  }
+}

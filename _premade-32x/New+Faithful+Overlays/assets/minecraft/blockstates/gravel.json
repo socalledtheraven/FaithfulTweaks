@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+		{ "model": "minecraft:block/gravel", "weight": 5 },
+		{ "model": "minecraft:block/gravel2", "weight": 2 } 
+		]
+    }
+}

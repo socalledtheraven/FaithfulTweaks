@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=down,triggered=false": { "model": "minecraft:block/dropper_vertical", "x": 180 },
+    "facing=down,triggered=true": { "model": "minecraft:block/dropper_vertical_triggered", "x": 180 },
+    "facing=east,triggered=false": { "model": "minecraft:block/dropper", "y": 90 },
+    "facing=east,triggered=true": { "model": "minecraft:block/dropper_triggered", "y": 90 },
+    "facing=north,triggered=false": { "model": "minecraft:block/dropper" },
+    "facing=north,triggered=true": { "model": "minecraft:block/dropper_triggered" },
+    "facing=south,triggered=false": { "model": "minecraft:block/dropper", "y": 180 },
+    "facing=south,triggered=true": { "model": "minecraft:block/dropper_triggered", "y": 180 },
+    "facing=up,triggered=false": { "model": "minecraft:block/dropper_vertical" },
+    "facing=up,triggered=true": { "model": "minecraft:block/dropper_vertical_triggered" },
+    "facing=west,triggered=false": { "model": "minecraft:block/dropper", "y": 270 },
+    "facing=west,triggered=true": { "model": "minecraft:block/dropper_triggered", "y": 270 }
+  }
+}

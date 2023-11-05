@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "pack_format": 8,
+        "description": [
+            {
+                "text": "Sticky Piston Sides",
+                "color": "green"
+            },
+            "\n",
+			{
+                "text": "faithfulpack.net/addons/",
+                "color": "white"
+            }
+
+        ]
+    }
+}

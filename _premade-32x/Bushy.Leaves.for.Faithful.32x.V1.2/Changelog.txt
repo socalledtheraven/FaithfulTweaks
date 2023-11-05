@@ -1,0 +1,14 @@
+= CHANGELOG: FAITHFUL 32X - BUSHY LEAVES ADD-ON V1.2 =
+
+[FORMAT]
+
+Changed (~)
+  ~ Grammar improvement, Name changing, and Updated License was provided into Readme.txt
+  ~ Updated Pack Format into 12 (Supports 1.14-1.19.3)
+  ~ Slightly changed the pack description
+
+[VANILLA]
+
+Changed (~)
+  ~ Optimized textures file size into less than a half of their old ones.
+  ~ Fixed Mangrove Bushy Leaves textures from not being 64x64

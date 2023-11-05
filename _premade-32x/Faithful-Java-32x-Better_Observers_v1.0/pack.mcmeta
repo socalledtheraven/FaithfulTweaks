@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "pack_format": 8,
+        "description": [
+            {
+                "text": "Better Observers",
+                "color": "dark_red"
+            },
+            "\n",
+			{
+                "text": "faithfulpack.net/addons/",
+                "color": "white"
+            }
+
+        ]
+    }
+}

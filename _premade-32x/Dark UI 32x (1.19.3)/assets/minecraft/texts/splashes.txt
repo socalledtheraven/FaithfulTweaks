@@ -1,0 +1,434 @@
+§6As seen on TV!
+§6Awesome!
+§6100% pure!
+§6May contain nuts!
+§6More polygons!
+§6Moderately attractive!
+§6Limited edition!
+§6Flashing letters!
+§6It's here!
+§6Best in class!
+§6It's finished!
+§6Kind of dragon free!
+§6Excitement!
+§6More than 500 sold!
+§6One of a kind!
+§6Heaps of hits on YouTube!
+§6Indev!
+§6Spiders everywhere!
+§6Check it out!
+§6Holy cow, man!
+§6It's a game!
+§6Made in Sweden!
+§6Uses LWJGL!
+§6Reticulating splines!
+§6Minecraft!
+§6Yaaay!
+§6Singleplayer!
+§6Keyboard compatible!
+§6Ingots!
+§6Exploding creepers!
+§6That's no moon!
+§6l33t!
+§6Create!
+§6Survive!
+§6Dungeon!
+§6Exclusive!
+§6The bee's knees!
+§6Closed source!
+§6Classy!
+§6Wow!
+§6Not on steam!
+§6Oh man!
+§6Awesome community!
+§6Pixels!
+§6Teetsuuuuoooo!
+§6Kaaneeeedaaaa!
+§6Now with difficulty!
+§6Enhanced!
+§690% bug free!
+§6Pretty!
+§612 herbs and spices!
+§6Fat free!
+§6Absolutely no memes!
+§6Free dental!
+§6Ask your doctor!
+§6Minors welcome!
+§6Cloud computing!
+§6Legal in Finland!
+§6Hard to label!
+§6Technically good!
+§6Bringing home the bacon!
+§6Indie!
+§6GOTY!
+§6Ceci n'est pas une title screen!
+§6Euclidian!
+§6Now in 3D!
+§6Inspirational!
+§6Herregud!
+§6Complex cellular automata!
+§6Yes, sir!
+§6Played by cowboys!
+§6Now on OpenGL 3.2 core profile!
+§6Thousands of colors!
+§6Try it!
+§6Age of Wonders is better!
+§6Try the mushroom stew!
+§6Sensational!
+§6Hot tamale, hot hot tamale!
+§6Play him off, keyboard cat!
+§6Guaranteed!
+§6Macroscopic!
+§6Bring it on!
+§6Random splash!
+§6Call your mother!
+§6Monster infighting!
+§6Loved by millions!
+§6Ultimate edition!
+§6Freaky!
+§6You've got a brand new key!
+§6Water proof!
+§6Uninflammable!
+§6Whoa, dude!
+§6All inclusive!
+§6Tell your friends!
+§6NP is not in P!
+§6Music by C418!
+§6Livestreamed!
+§6Haunted!
+§6Polynomial!
+§6Terrestrial!
+§6All is full of love!
+§6Full of stars!
+§6Scientific!
+§6Not as cool as Spock!
+§6Collaborate and listen!
+§6Never dig down!
+§6Take frequent breaks!
+§6Not linear!
+§6Han shot first!
+§6Nice to meet you!
+§6Buckets of lava!
+§6Ride the pig!
+§6Larger than Earth!
+§6sqrt(-1) love you!
+§6Phobos anomaly!
+§6Punching wood!
+§6Falling off cliffs!
+§61% sugar!
+§6150% hyperbole!
+§6Synecdoche!
+§6Let's danec!
+§6Seecret Friday update!
+§6Reference implementation!
+§6Kiss the sky!
+§620 GOTO 10!
+§6Verlet intregration!
+§6Peter Griffin!
+§6Do not distribute!
+§6Cogito ergo sum!
+§64815162342 lines of code!
+§6A skeleton popped out!
+§6The sum of its parts!
+§6BTAF used to be good!
+§6I miss ADOM!
+§6umop-apisdn!
+§6OICU812!
+§6Bring me Ray Cokes!
+§6Finger-licking!
+§6Thematic!
+§6Pneumatic!
+§6Sublime!
+§6Octagonal!
+§6Une baguette!
+§6Gargamel plays it!
+§6Rita is the new top dog!
+§6SWM forever!
+§6Representing Edsbyn!
+§6Matt Damon!
+§6Supercalifragilisticexpialidocious!
+§6Consummate V's!
+§6Cow Tools!
+§6Double buffered!
+§6Fan fiction!
+§6Flaxkikare!
+§6Jason! Jason! Jason!
+§6Hotter than the sun!
+§6Internet enabled!
+§6Autonomous!
+§6Engage!
+§6Fantasy!
+§6DRR! DRR! DRR!
+§6Kick it root down!
+§6Regional resources!
+§6Woo, facepunch!
+§6Woo, somethingawful!
+§6Woo, tigsource!
+§6Woo, worldofminecraft!
+§6Woo, reddit!
+§6Woo, 2pp!
+§6Google anlyticsed!
+§6Now supports åäö!
+§6Give us Gordon!
+§6Tip your waiter!
+§6Very fun!
+§612345 is a bad password!
+§6Vote for net neutrality!
+§6Lives in a pineapple under the sea!
+§6MAP11 has two names!
+§6Omnipotent!
+§6Gasp!
+§6...!
+§6Bees, bees, bees, bees!
+§6Jag känner en bot!
+§6This text is hard to read if you play the game at the default resolution, but at 1080p it's fine!
+§6Haha, LOL!
+§6Hampsterdance!
+§6Menger sponge!
+§6idspispopd!
+§6Eple (original edit)!
+§6So fresh, so clean!
+§6Slow acting portals!
+§6Try the Nether!
+§6Don't look directly at the bugs!
+§6Oh, ok, Pigmen!
+§6Finally with ladders!
+§6Scary!
+§6Play Minecraft, Watch Topgear, Get Pig!
+§6Twittered about!
+§6Jump up, jump up, and get down!
+§6Joel is neat!
+§6A riddle, wrapped in a mystery!
+§6This parrot is no more! It has ceased to be!
+§6Welcome to your Doom!
+§6Stay a while, stay forever!
+§6Stay a while and listen!
+§6Treatment for your rash!
+§6"Autological" is!
+§6Information wants to be free!
+§6"Almost never" is an interesting concept!
+§6Lots of truthiness!
+§6The creeper is a spy!
+§6Turing complete!
+§6It's groundbreaking!
+§6Let our battle's begin!
+§6The sky is the limit!
+§6Jeb has amazing hair!
+§6Ryan also has amazing hair!
+§6Casual gaming!
+§6Undefeated!
+§6Kinda like Lemmings!
+§6Follow the train, CJ!
+§6Leveraging synergy!
+§6This message will never appear on the splash screen, isn't that weird?
+§6DungeonQuest is unfair!
+§690210!
+§6Check out the far lands!
+§6Tyrion would love it!
+§6Also try VVVVVV!
+§6Also try Super Meat Boy!
+§6Also try Terraria!
+§6Also try Mount And Blade!
+§6Also try Project Zomboid!
+§6Also try World of Goo!
+§6Also try Limbo!
+§6Also try Pixeljunk Shooter!
+§6Also try Braid!
+§6That's super!
+§6Bread is pain!
+§6Read more books!
+§6Khaaaaaaaaan!
+§6Less addictive than TV Tropes!
+§6More addictive than lemonade!
+§6Bigger than a bread box!
+§6Millions of peaches!
+§6Fnord!
+§6This is my true form!
+§6Don't bother with the clones!
+§6Pumpkinhead!
+§6Made by Jeb!
+§6Has an ending!
+§6Finally complete!
+§6Feature packed!
+§6Boots with the fur!
+§6Stop, hammertime!
+§6Testificates!
+§6Conventional!
+§6Homeomorphic to a 3-sphere!
+§6Doesn't avoid double negatives!
+§6Place ALL the blocks!
+§6Does barrel rolls!
+§6Meeting expectations!
+§6PC gaming since 1873!
+§6Ghoughpteighbteau tchoghs!
+§6Déjà vu!
+§6Déjà vu!
+§6Got your nose!
+§6Haley loves Elan!
+§6Afraid of the big, black bat!
+§6Doesn't use the U-word!
+§6Child's play!
+§6See you next Friday or so!
+§6From the streets of Södermalm!
+§6150 bpm for 400000 minutes!
+§6Technologic!
+§6Funk soul brother!
+§6Pumpa kungen!
+§6日本ハロー！
+§6한국 안녕하세요!
+§6Helo Cymru!
+§6Cześć Polsko!
+§6你好中国！
+§6Γεια σου Ελλάδα!
+§6My life for Aiur!
+§6Lennart lennart = new Lennart();
+§6I see your vocabulary has improved!
+§6Who put it there?
+§6You can't explain that!
+§6if not ok then return end
+§6§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
+§6§kFUNKY LOL
+§6Big Pointy Teeth!
+§6Bekarton guards the gate!
+§6Mmmph, mmph!
+§6Don't feed avocados to parrots!
+§6Swords for everyone!
+§6Plz reply to my tweet!
+§6.party()!
+§6Take her pillow!
+§6Put that cookie down!
+§6Pretty scary!
+§6I have a suggestion.
+§6Now with extra hugs!
+§6Java 16 + 1 = 17!
+§6Woah.
+§6HURNERJSGER?
+§6What's up, Doc?
+§6Now contains 32 random daily cats!
+§6That's Numberwang!
+§6pls rt
+§6Do you want to join my server?
+§6Put a little fence around it!
+§6Throw a blanket over it!
+§6One day, somewhere in the future, my work will be quoted!
+§6Now with additional stuff!
+§6Extra things!
+§6Yay, puppies for everyone!
+§6So sweet, like a nice bon bon!
+§6Very influential in its circle!
+§6Now With Multiplayer!
+§6Rise from your grave!
+§6Warning! A huge battleship "STEVE" is approaching fast!
+§6Blue warrior shot the food!
+§6Run, coward! I hunger!
+§6Flavor with no seasoning!
+§6Strange, but not a stranger!
+§6Tougher than diamonds, rich like cream!
+§6It swings, it jives!
+§6Cruising streets for gold!
+§6Take an eggbeater and beat it against a skillet!
+§6Make me a table, a funky table!
+§6Take the elevator to the mezzanine!
+§6Stop being reasonable, this is the Internet!
+§6/give @a hugs 64
+§6This is good for Realms.
+§6Any computer is a laptop if you're brave enough!
+§6Do it all, everything!
+§6Where there is not light, there can spider!
+§6GNU Terry Pratchett
+§6More Digital!
+§6doot doot
+§6Falling with style!
+§6There's no stopping the Trollmaso
+§6Throw yourself at the ground and miss
+§6Rule #1: it's never my fault
+§6Replaced molten cheese with blood?
+§6Absolutely fixed relatively broken coordinates
+§6Boats FTW
+§6Javalicious edition
+§6Should not be played while driving
+§6You're going too fast!
+§6Don't feed chocolate to parrots!
+§6The true meaning of covfefe
+§6An illusion! What are you hiding?
+§6Something's not quite right...
+§6Thank you for the fish!
+§6All rumors are true!
+§6Truly gone fishing!
+§6Rainbow turtle?
+§6Something funny!
+§6I need more context.
+§6Ahhhhhh!
+§6Don't worry, be happy!
+§6Water bottle!
+§6What's the question?
+§6Plant a tree!
+§6Go to the dentist!
+§6What do you expect?
+§6Look mum, I'm in a splash!
+§6It came from space.
+§6Awesome game design right there!
+§6Ph1lza had a good run!
+§610 years of Mining and Crafting!
+§6Ping the human!
+§6In case it isn't obvious, foxes aren't players.
+§6Buzzy Bees!
+§6Minecraft Java Edition presents: Disgusting Bugs
+§6Wash your hands!
+§6Soap and water!
+§6Support local businesses!
+§6Stay home and play games!
+§6Stay safe!
+§6Stay strong!
+§6Cough or sneeze into your elbow!
+§6Don’t touch your face!
+§6Support elderly relatives and friends!
+§6Prepare, but don’t hoard!
+§6Gamers unite – separately in your own homes!
+§6Save the world – stay inside!
+§6Shop for your elders!
+§6Hang out with your friends online!
+§6Honey, I grew the bees!
+§6Find your claw!
+§6Everybody do the Leif!
+§6<3 Max & 99 & Ducky!
+§6Bushy eyebrows!
+§6Edit is a name!
+§6From free range developers!
+§6Music by Lena Raine!
+§6Aww man!
+§6#minecraftfarms
+§6And my pickaxe!
+§6Envision! Create! Share!
+§6Fabulous graphics!
+§6Also try Minecraft Dungeons!
+§6Vanilla!
+§6May contain traces of citrus!
+§6Zoglin!?
+§6Black lives matter!
+§6Be anti-racist!
+§6Learn about allyship!
+§6Speak OUT against injustice and UP for equality!
+§6Amplify and listen to BIPOC voices!
+§6Educate your friends on anti-racism!
+§6Support the BIPOC community and creators!
+§6Stand up for equality in your community!
+§6[this splash text is now available]
+§6Contains simulated goats!
+§6Home-made!
+§6There's <<a cat on ,my keyboard!~
+§6The cutest predator you'll ever meet!
+§6Now you are thinking with pistons!
+§6Get to the coppah!
+§6Board game version also available!
+§6Honey, I waxed the copper!
+§6Plant-based light sources!
+§6Made by "real" people!
+§6Shriek like a Sculk Shrieker!
+§6Who let the frogs out?
+§6RIBBIT!
+§6Croak team!
+§6Nooooooooooooo!
+§6Flower forest TM perfume
+§6Hat Fridays!
+§6Technoblade never dies!

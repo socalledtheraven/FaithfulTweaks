@@ -1,0 +1,154 @@
+{
+  "variants": {
+    "age=25,berries=true": {
+      "model": "minecraft:block/cave_vines_lit_age_25"
+    },
+    "age=25,berries=false": {
+      "model": "minecraft:block/cave_vines_age_25"
+    },
+    "age=24,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=24,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=23,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=23,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=22,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=22,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=21,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=21,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=20,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=20,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=19,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=19,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=18,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=18,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=17,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=17,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=16,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=16,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=15,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=15,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=14,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=14,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=13,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=13,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=12,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=12,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=11,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=11,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=9,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=9,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=8,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=8,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=7,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=7,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=6,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=6,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=5,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=5,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=4,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=4,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=3,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=3,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=2,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=2,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=1,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=1,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=0,berries=false": {
+      "model": "minecraft:block/cave_vines"
+    },
+    "age=0,berries=true": {
+      "model": "minecraft:block/cave_vines_lit"
+    }
+  }
+}

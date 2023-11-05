@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/soul_sand" },
+            { "model": "minecraft:block/soul_sand", "y": 90 },
+            { "model": "minecraft:block/soul_sand", "y": 180 },
+            { "model": "minecraft:block/soul_sand", "y": 270 }
+        ]
+    }
+}

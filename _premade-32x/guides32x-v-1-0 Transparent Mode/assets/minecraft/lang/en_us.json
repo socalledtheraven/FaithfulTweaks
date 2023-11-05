@@ -1,0 +1,14 @@
+{
+  "language.name": "WeNAN",
+  "language.region": "US",
+  "language.code": "en_us",
+
+// GUIdes haha get it?
+  "container.brewing":					"§f\uDBFF\uDFFB\uF801\uDBFF\uDFF9\uF809\uF80C\uF805\uDBFF\uDFF8\uF801\uDBFF\uDFF7\uF809\uF80C\uF805\uDBFF\uDFF6\uF801\uDBFF\uDFF5§r\uF829\uF82A\uF828Brewing Stand\uF829\uF82A\uF828§f\uDBFF\uDFFC\uF82A\uF829\uF828\uF826",
+  "container.repair":					"Repair & Name\uF82B§f\uDBFF\uDFFD\uF801\uDBFF\uDFF1\uF809\uF80C\uF805\uDBFF\uDFF0\uF801\uDBFF\uDFF2",
+  "block.minecraft.beacon.primary":		"§f\uDBFF\uDFFE\uF80B\uF80A\uF808\uF803\uDBFF\uDFF4\uF82A\uF829\uF824\uF823§rPrimary Power\uF82B\uF82A\uF828\uF824\uF82A\uF829\uF824\uF823",
+  "container.cartography_table":		"Cartography Table\uF82B\uF828\uF824§f\uDBFF\uDFFF",
+  "container.furnace":					"\uF826\uF82B\uF82BFurnace\uF826\uF82B§f\uDBFF\uDFFA",
+  "container.smoker":					"\uF82B\uF828\uF823\uF82A\uF829\uF828\uF826Smoker\uF82B\uF828\uF823§f\uDBFF\uDFFA",
+  "container.blast_furnace":			"\uF82A\uF829\uF828\uF82A\uF829\uF828\uF826Blast Furnace\uF82A\uF829\uF828§f\uDBFF\uDFFA"  
+}

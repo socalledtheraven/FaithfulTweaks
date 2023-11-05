@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "age=25": { "model": "minecraft:block/weeping_vines_age_25" }
+  }
+}

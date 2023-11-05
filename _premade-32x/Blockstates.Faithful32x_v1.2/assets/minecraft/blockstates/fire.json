@@ -1,0 +1,2852 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "age": "0",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age0"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age0"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "0",
+            "north": "true"
+          },
+          {
+            "age": "0",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age0"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age0"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age0"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age0"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "0",
+            "east": "true"
+          },
+          {
+			"age": "0",  
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age0",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age0",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age0",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age0",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "0",
+            "south": "true"
+          },
+          {
+            "age": "0",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age0",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age0",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age0",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age0",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "0",
+            "west": "true"
+          },
+          {
+            "age": "0",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age0",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age0",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age0",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age0",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "0",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age0"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age0"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age0"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age0"
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "1",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age1"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age1"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "1",
+            "north": "true"
+          },
+          {
+            "age": "1",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age1"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age1"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age1"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age1"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "1",
+            "east": "true"
+          },
+          {
+			"age": "1",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age1",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age1",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age1",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age1",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "1",
+            "south": "true"
+          },
+          {
+            "age": "1",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age1",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age1",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age1",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age1",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "1",
+            "west": "true"
+          },
+          {
+            "age": "1",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age1",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age1",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age1",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age1",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "1",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age1"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age1"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age1"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age1"
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "2",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age2"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age2"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "2",
+            "north": "true"
+          },
+          {
+            "age": "2",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age2"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age2"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age2"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age2"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "2",
+            "east": "true"
+          },
+          {
+			"age": "2",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age2",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age2",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age2",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age2",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "2",
+            "south": "true"
+          },
+          {
+            "age": "2",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age2",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age2",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age2",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age2",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "2",
+            "west": "true"
+          },
+          {
+            "age": "2",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age2",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age2",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age2",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age2",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "0",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age2"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age2"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age2"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age2"
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "3",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age3"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age3"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "3",
+            "north": "true"
+          },
+          {
+            "age": "3",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age3"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age3"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age3"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age3"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "3",
+            "east": "true"
+          },
+          {
+			"age": "3",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age3",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age3",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age3",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age3",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "3",
+            "south": "true"
+          },
+          {
+            "age": "3",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age3",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age3",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age3",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age3",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "3",
+            "west": "true"
+          },
+          {
+            "age": "3",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age3",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age3",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age3",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age3",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "3",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age3"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age3"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age3"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age3"
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "4",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age4"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age4"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "4",
+            "north": "true"
+          },
+          {
+            "age": "4",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age4"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age4"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age4"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age4"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "4",
+            "east": "true"
+          },
+          {
+			"age": "4",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age4",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age4",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age4",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age4",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "4",
+            "south": "true"
+          },
+          {
+            "age": "4",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age4",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age4",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age4",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age4",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "4",
+            "west": "true"
+          },
+          {
+            "age": "4",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age4",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age4",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age4",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age4",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "4",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age4"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age4"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age4"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age4"
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "5",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age5"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age5"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "5",
+            "north": "true"
+          },
+          {
+            "age": "5",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age5"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age5"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age5"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age5"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "5",
+            "east": "true"
+          },
+          {
+			"age": "5",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age5",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age5",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age5",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age5",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "5",
+            "south": "true"
+          },
+          {
+            "age": "5",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age5",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age5",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age5",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age5",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "5",
+            "west": "true"
+          },
+          {
+            "age": "5",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age5",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age5",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age5",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age5",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "5",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age5"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age5"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age5"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age5"
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "6",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age6"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age6"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "6",
+            "north": "true"
+          },
+          {
+            "age": "6",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age6"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age6"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age6"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age6"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "6",
+            "east": "true"
+          },
+          {
+			"age": "6",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age6",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age6",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age6",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age6",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "6",
+            "south": "true"
+          },
+          {
+            "age": "6",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age6",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age6",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age6",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age6",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "6",
+            "west": "true"
+          },
+          {
+            "age": "6",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age6",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age6",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age6",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age6",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "6",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age6"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age6"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age6"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age6"
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "7",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age7"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age7"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "7",
+            "north": "true"
+          },
+          {
+            "age": "7",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age7"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age7"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age7"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age7"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "7",
+            "east": "true"
+          },
+          {
+			"age": "7",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age7",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age7",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age7",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age7",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "7",
+            "south": "true"
+          },
+          {
+            "age": "7",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age7",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age7",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age7",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age7",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "7",
+            "west": "true"
+          },
+          {
+            "age": "7",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age7",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age7",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age7",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age7",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "7",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age7"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age7"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age7"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age7"
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "8",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age8"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age8"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "8",
+            "north": "true"
+          },
+          {
+            "age": "8",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age8"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age8"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age8"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age8"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "8",
+            "east": "true"
+          },
+          {
+			"age": "8",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age8",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age8",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age8",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age8",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "8",
+            "south": "true"
+          },
+          {
+            "age": "8",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age8",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age8",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age8",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age8",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "8",
+            "west": "true"
+          },
+          {
+            "age": "8",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age8",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age8",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age8",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age8",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "8",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age8"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age8"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age8"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age8"
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "9",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age9"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age9"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "9",
+            "north": "true"
+          },
+          {
+            "age": "9",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age9"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age9"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age9"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age9"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "9",
+            "east": "true"
+          },
+          {
+			"age": "9",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age9",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age9",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age9",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age9",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "9",
+            "south": "true"
+          },
+          {
+            "age": "9",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age9",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age9",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age9",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age9",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "9",
+            "west": "true"
+          },
+          {
+            "age": "9",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age9",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age9",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age9",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age9",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "9",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age9"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age9"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age9"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age9"
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "10",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age10"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age10"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "10",
+            "north": "true"
+          },
+          {
+            "age": "10",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age10"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age10"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age10"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age10"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "10",
+            "east": "true"
+          },
+          {
+			"age": "10",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age10",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age10",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age10",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age10",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "10",
+            "south": "true"
+          },
+          {
+            "age": "10",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age10",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age10",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age10",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age10",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "10",
+            "west": "true"
+          },
+          {
+            "age": "10",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age10",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age10",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age10",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age10",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "10",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age10"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age10"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age10"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age10"
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "11",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age11"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age11"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "11",
+            "north": "true"
+          },
+          {
+            "age": "11",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age11"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age11"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age11"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age11"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "11",
+            "east": "true"
+          },
+          {
+			"age": "11",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age11",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age11",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age11",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age11",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "11",
+            "south": "true"
+          },
+          {
+            "age": "11",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age11",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age11",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age11",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age11",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "11",
+            "west": "true"
+          },
+          {
+            "age": "11",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age11",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age11",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age11",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age11",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "11",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age11"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age11"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age11"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age11"
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "12",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age12"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age12"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "12",
+            "north": "true"
+          },
+          {
+            "age": "12",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age12"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age12"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age12"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age12"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "12",
+            "east": "true"
+          },
+          {
+			"age": "12",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age12",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age12",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age12",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age12",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "12",
+            "south": "true"
+          },
+          {
+            "age": "12",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age12",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age12",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age12",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age12",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "12",
+            "west": "true"
+          },
+          {
+            "age": "12",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age12",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age12",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age12",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age12",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "12",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age12"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age12"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age12"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age12"
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "13",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age13"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age13"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "13",
+            "north": "true"
+          },
+          {
+            "age": "13",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age13"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age13"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age13"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age13"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "13",
+            "east": "true"
+          },
+          {
+			"age": "13",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age13",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age13",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age13",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age13",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "13",
+            "south": "true"
+          },
+          {
+            "age": "13",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age13",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age13",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age13",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age13",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "13",
+            "west": "true"
+          },
+          {
+            "age": "13",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age13",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age13",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age13",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age13",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "13",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age13"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age13"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age13"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age13"
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "14",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age14"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age14"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "14",
+            "north": "true"
+          },
+          {
+            "age": "14",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age14"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age14"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age14"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age14"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "14",
+            "east": "true"
+          },
+          {
+			"age": "14",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age14",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age14",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age14",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age14",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "14",
+            "south": "true"
+          },
+          {
+            "age": "14",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age14",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age14",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age14",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age14",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "14",
+            "west": "true"
+          },
+          {
+            "age": "14",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age14",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age14",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age14",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age14",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "14",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age14"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age14"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age14"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age14"
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "15",
+        "up": "false",
+        "north": "false",
+        "west": "false",
+        "south": "false",
+        "east": "false"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_floor0_age15"
+        },
+        {
+          "model": "minecraft:block/fire_floor1_age15"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "15",
+            "north": "true"
+          },
+          {
+            "age": "15",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age15"
+        },
+        {
+          "model": "minecraft:block/fire_side1_age15"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age15"
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age15"
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "15",
+            "east": "true"
+          },
+          {
+			"age": "15",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age15",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side1_age15",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age15",
+          "y": 90
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age15",
+          "y": 90
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "15",
+            "south": "true"
+          },
+          {
+            "age": "15",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age15",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side1_age15",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age15",
+          "y": 180
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age15",
+          "y": 180
+        }
+      ]
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "age": "15",
+            "west": "true"
+          },
+          {
+            "age": "15",
+            "up": "false",
+            "north": "false",
+            "west": "false",
+            "south": "false",
+            "east": "false"
+          }
+        ]
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_side0_age15",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side1_age15",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt0_age15",
+          "y": 270
+        },
+        {
+          "model": "minecraft:block/fire_side_alt1_age15",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "age": "15",
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "minecraft:block/fire_up0_age15"
+        },
+        {
+          "model": "minecraft:block/fire_up1_age15"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt0_age15"
+        },
+        {
+          "model": "minecraft:block/fire_up_alt1_age15"
+        }
+      ]
+    }
+  ]
+}

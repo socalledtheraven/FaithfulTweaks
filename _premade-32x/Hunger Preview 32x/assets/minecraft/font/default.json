@@ -1,0 +1,22 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/hunger_half.png",
+			"ascent": 8,
+			"height": 18,
+			"chars": [
+				"\uEff3"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/hunger_full.png",
+			"ascent": 8,
+			"height": 18,
+			"chars": [
+				"\uEff4"
+			]
+		}
+	]
+}

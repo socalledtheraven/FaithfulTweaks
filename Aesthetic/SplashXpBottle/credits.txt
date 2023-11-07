@@ -1,4 +1,13 @@
-Texture by Mono_826
+Credits:
+Vanilla Tweaks by Xisumavoid: https://vanillatweaks.net/
+Faithful Textures by Vattic and the Faithful Team: https://faithfulpack.net
 
-Original 32x experience bottle texture by Nyodex and Pomi108
-Original 32x splash potion texture by Pomi108 and Evorp
+This pack is a modification of The Faithful 32x pack. 
+Modifications are based off of/inspired by the packs by Vanilla tweaks.
+
+Textures by QuintBrit
+
+
+
+
+

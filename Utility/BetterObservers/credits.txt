@@ -1,6 +1,7 @@
 Credits:
 Vanilla Tweaks by Xisumavoid: https://vanillatweaks.net/
 Faithful Textures by Vattic and the Faithful Team: https://faithfulpack.net
+Side and Top Textures by Hozz
 
 This pack is a modification of The Faithful 32x pack. 
 Modifications are based off of/inspired by the packs by Vanilla tweaks.

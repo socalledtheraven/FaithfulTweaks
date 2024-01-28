@@ -1,0 +1,1 @@
+<h1 align="center"> Warning, this tutorial is deprecated in favor of the <a href="https://docs.compliancepack.net/">Docs Website</a>, please see <a href="https://docs.compliancepack.net/pages/dungeons/items-tutorial">this tutorial</a> instead</h1>

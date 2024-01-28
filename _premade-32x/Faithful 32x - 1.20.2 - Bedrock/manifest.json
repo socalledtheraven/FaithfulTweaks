@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "The go-to 32x texture pack for Minecraft. Now for Bedrock Edition.",
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ],
+    "name": "Faithful 32x - December 2023 Pre-release",
+    "uuid": "d8b2fbce-ac64-4d25-b0b5-1420a6ac23d2",
+    "version": [
+      2,
+      0,
+      0
+    ]
+  },
+  "metadata": {
+      "authors": [ "Vattic & Faithful Team" ],
+      "license": "https://faithfulpack.net/license",
+      "url": "https://faithfulpack.net/"
+},
+  "modules": [
+    {
+      "description": "The go-to 32x texture pack for Minecraft. Now for Bedrock Edition.",
+      "type": "resources",
+      "uuid": "286d162d-5e45-4f9f-8a41-32ba0904cf21",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

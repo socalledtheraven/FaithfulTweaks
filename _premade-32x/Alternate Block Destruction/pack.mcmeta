@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 15,
+		"supported_formats": [15, 22],
+        "description": "\u00a76Faithful Tweaks 1.20 by Webaccount284. An upscaled version of Vanilla Tweaks.\n\u00a7efaithfulpack.net"
+    },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 18, "max_inclusive": 2147483647},
+				"directory": "overlay_18"
+			}
+		]
+	}
+}

@@ -1,5 +1,0 @@
-{
-  "variants": {
-    "age=25": { "model": "minecraft:block/twisting_vines_age_25" }
-  }
-}

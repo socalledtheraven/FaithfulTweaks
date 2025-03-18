@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_daylight_detector",
-  "textures": {
-    "top": "minecraft:block/daylight_detector_top_10",
-    "side": "minecraft:block/daylight_detector_side_10",
-	"bottom": "minecraft:block/daylight_detector_bottom"
-  }
-}

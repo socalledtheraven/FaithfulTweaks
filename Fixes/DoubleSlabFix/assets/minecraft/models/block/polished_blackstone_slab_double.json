@@ -1,8 +1,0 @@
-{
-	"credit": "Created by Stridey",
-	"parent": "block/cube_column",
-	"textures": {
-		"side": "block/polished_blackstone_slab_side",
-		"end": "block/polished_blackstone"
-	}
-}

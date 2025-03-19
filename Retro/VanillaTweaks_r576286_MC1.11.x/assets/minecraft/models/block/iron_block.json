@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+	        "particle": "blocks/iron_block_side",
+        "down": "blocks/iron_block_bottom",
+        "up": "blocks/iron_block",
+        "north": "blocks/iron_block_side",
+        "east": "blocks/iron_block_side",
+        "south": "blocks/iron_block_side",
+        "west": "blocks/iron_block_side"
+    }
+}

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/outer_stairs",
-  "textures": {
-    "bottom": "minecraft:block/warped_planks_05",
-    "top": "minecraft:block/warped_planks_05",
-    "side": "minecraft:block/warped_planks_05"
-  }
-}

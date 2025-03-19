@@ -1,0 +1,7 @@
+{
+    "parent": "block/ctm",
+    "textures": {
+        "all": "blocks/lapis_block"
+, "base": "blocks/lapis_block_borderless"
+     }
+}

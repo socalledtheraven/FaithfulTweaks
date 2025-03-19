@@ -1,4 +1,4 @@
 Vanilla Tweaks Resource Pack
-Version: 1.11
+Version: 1.12
 Packs:
 	OldMetalBlocks

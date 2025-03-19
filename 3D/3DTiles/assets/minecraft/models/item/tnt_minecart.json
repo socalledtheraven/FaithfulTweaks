@@ -3,17 +3,17 @@
     "parent": "block/block",
     "ambientocclusion": false,
     "textures": {
-        "particle": "#side",
-        "texture": "block/minecart",
-        "top": "block/tnt_top",
-        "side": "block/tnt_side",
-        "bottom": "block/tnt_bottom",
-        "down": "block/tnt_bottom",
-        "up": "block/tnt_top",
-        "north": "block/tnt_side",
-        "east": "block/tnt_side",
-        "south": "block/tnt_side",
-        "west": "block/tnt_side"
+        "particle": "blocks/tnt_side",
+        "texture": "blocks/minecart",
+        "top": "blocks/tnt_top",
+        "side": "blocks/tnt_side",
+        "bottom": "blocks/tnt_bottom",
+        "down": "blocks/tnt_bottom",
+        "up": "blocks/tnt_top",
+        "north": "blocks/tnt_side",
+        "east": "blocks/tnt_side",
+        "south": "blocks/tnt_side",
+        "west": "blocks/tnt_side"
     },
     "elements": [
         {

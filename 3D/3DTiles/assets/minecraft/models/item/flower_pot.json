@@ -2,9 +2,9 @@
     "__comment": "Designed by MinecraftSpace with Cubik Studio - https://cubik.studio",
     "ambientocclusion": false,
     "textures": {
-        "particle": "block/flower_pot",
-        "flowerpot": "block/flower_pot",
-        "dirt": "block/dirt"
+        "particle": "blocks/flower_pot",
+        "flowerpot": "blocks/flower_pot",
+        "dirt": "blocks/dirt"
     },
     "elements": [
         {

@@ -1,8 +1,8 @@
 {
     "__comment": "Designed by MinecraftSpace with Cubik Studio - https://cubik.studio",
     "textures": {
-        "particle": "block/oak",
-        "texture": "block/acacia"
+        "particle": "entity/3dtiles/acacia",
+        "texture": "entity/3dtiles/acacia"
     },
     "elements": [
         {

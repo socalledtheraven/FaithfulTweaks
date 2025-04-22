@@ -1,5 +1,10 @@
 {
+    "comment": "Made by Stridey",
     "parent": "builtin/entity",
+	"gui_light": "front",
+    "textures": {
+        "particle": "block/oak_log"
+    },
     "display": {
         "thirdperson_righthand": {
             "rotation": [
@@ -71,13 +76,13 @@
         },
         "gui": {
             "rotation": [
-                15,
-                -25,
-                -5
+                0,
+                0,
+                0
             ],
             "translation": [
-                2,
-                3,
+                4.9,
+                5.3,
                 0
             ],
             "scale": [

@@ -3,7 +3,7 @@
     "parent": "block/block",
     "textures": {
         "particle": "#front",
-        "texture": "block/minecart",
+        "texture": "entity/3dtiles/minecart",
         "top": "block/furnace_top",
         "front": "block/furnace_front",
         "side": "block/furnace_side",

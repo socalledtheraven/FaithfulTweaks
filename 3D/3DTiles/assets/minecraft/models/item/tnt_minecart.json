@@ -4,7 +4,7 @@
     "ambientocclusion": false,
     "textures": {
         "particle": "#side",
-        "texture": "block/minecart",
+        "texture": "entity/3dtiles/minecart",
         "top": "block/tnt_top",
         "side": "block/tnt_side",
         "bottom": "block/tnt_bottom",

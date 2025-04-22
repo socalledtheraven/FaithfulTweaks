@@ -1,4 +1,4 @@
 Vanilla Tweaks Resource Pack
-Version: 1.13
+Version: 1.14
 Packs:
 	1.11ShulkerBoxes

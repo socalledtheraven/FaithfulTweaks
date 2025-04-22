@@ -1,9 +1,9 @@
 {
     "__comment": "Designed by MinecraftSpace with Cubik Studio - https://cubik.studio",
     "textures": {
-        "particle": "blocks/brewing_stand",
-        "stand": "blocks/brewing_stand",
-        "base": "blocks/brewing_stand_base"
+        "particle": "block/brewing_stand",
+        "stand": "block/brewing_stand",
+        "base": "block/brewing_stand_base"
     },
     "elements": [
         {

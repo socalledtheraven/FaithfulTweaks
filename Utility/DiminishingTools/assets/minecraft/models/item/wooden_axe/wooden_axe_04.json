@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "items/wooden_axe_04"
+        "layer0": "item/wooden_axe_04"
     }
 }

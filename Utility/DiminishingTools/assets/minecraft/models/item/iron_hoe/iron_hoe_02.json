@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "items/iron_hoe_02"
+        "layer0": "item/iron_hoe_02"
     }
 }

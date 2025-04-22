@@ -2,17 +2,17 @@
     "__comment": "Designed by MinecraftSpace with Cubik Studio - https://cubik.studio",
     "parent": "block/block",
     "textures": {
-        "particle": "blocks/furnace_front",
-        "texture": "blocks/minecart",
-        "top": "blocks/furnace_top",
-        "front": "blocks/furnace_front",
-        "side": "blocks/furnace_side",
-        "down": "blocks/furnace_top",
-        "up": "blocks/furnace_top",
-        "north": "blocks/furnace_front_off",
-        "east": "blocks/furnace_side",
-        "south": "blocks/furnace_side",
-        "west": "blocks/furnace_side"
+        "particle": "#front",
+        "texture": "block/minecart",
+        "top": "block/furnace_top",
+        "front": "block/furnace_front",
+        "side": "block/furnace_side",
+        "down": "block/furnace_top",
+        "up": "block/furnace_top",
+        "north": "block/furnace_front",
+        "east": "block/furnace_side",
+        "south": "block/furnace_side",
+        "west": "block/furnace_side"
     },
     "elements": [
         {

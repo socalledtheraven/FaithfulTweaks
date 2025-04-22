@@ -1,9 +1,9 @@
 {
     "parent": "block/piston_head_different_arm_tex",
     "textures": {
-        "unsticky": "blocks/piston_top_sticky",
-        "side": "blocks/piston_side_sticky",
-        "platform": "blocks/piston_top_sticky",
-        "arm": "blocks/piston_side"
+        "unsticky": "block/piston_top_sticky",
+        "side": "block/piston_side_sticky",
+        "platform": "block/piston_top_sticky",
+        "arm": "block/piston_side"
     }
 }

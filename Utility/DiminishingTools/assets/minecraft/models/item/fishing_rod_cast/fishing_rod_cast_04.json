@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld_rod",
     "textures": {
-        "layer0": "items/fishing_rod_cast_04"
+        "layer0": "item/fishing_rod_cast_04"
     }
 }

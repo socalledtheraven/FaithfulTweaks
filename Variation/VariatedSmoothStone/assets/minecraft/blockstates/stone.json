@@ -1,0 +1,105 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "block/stone"
+            },
+            {
+                "model": "block/stone2"
+            },
+            {
+                "model": "block/stone3"
+            },
+            {
+                "model": "block/stone4"
+            },
+            {
+                "model": "block/stone5"
+            },
+            {
+                "model": "block/stone6"
+            },
+            {
+                "model": "block/stone7"
+            },
+            {
+                "model": "block/stone8"
+            },
+            {
+                "model": "block/stone9"
+            },
+            {
+                "model": "block/stone",
+                "y": 180
+            },
+            {
+                "model": "block/stone2",
+                "y": 180
+            },
+            {
+                "model": "block/stone3",
+                "y": 180
+            },
+            {
+                "model": "block/stone4",
+                "y": 180
+            },
+            {
+                "model": "block/stone5",
+                "y": 180
+            },
+            {
+                "model": "block/stone6",
+                "y": 180
+            },
+            {
+                "model": "block/stone7",
+                "y": 180
+            },
+            {
+                "model": "block/stone8",
+                "y": 180
+            },
+            {
+                "model": "block/stone9",
+                "y": 180
+            },
+            {
+                "model": "block/stone",
+                "x": 180
+            },
+            {
+                "model": "block/stone2",
+                "x": 180
+            },
+            {
+                "model": "block/stone3",
+                "x": 180
+            },
+            {
+                "model": "block/stone4",
+                "x": 180
+            },
+            {
+                "model": "block/stone5",
+                "x": 180
+            },
+            {
+                "model": "block/stone6",
+                "x": 180
+            },
+            {
+                "model": "block/stone7",
+                "x": 180
+            },
+            {
+                "model": "block/stone8",
+                "x": 180
+            },
+            {
+                "model": "block/stone9",
+                "x": 180
+            }
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+Vanilla Tweaks Resource Pack
+Version: 1.13
+Packs:
+	VariatedGrass

@@ -21,6 +21,18 @@
 			}
 		},
 		{
+			"name": "ring_inner",
+			"from": [9, 3, 9],
+			"to": [7, 4, 11],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 6, 5.2]},
+			"faces": {
+				"north": {"uv": [7, 2, 8, 4], "rotation": 90, "texture": "#hook"},
+				"east": {"uv": [7, 2, 8, 4], "rotation": 90, "texture": "#hook"},
+				"south": {"uv": [7, 2, 8, 4], "rotation": 90, "texture": "#hook"},
+				"west": {"uv": [7, 2, 8, 4], "rotation": 90, "texture": "#hook"}
+			}
+		},
+		{
 			"name": "arm",
 			"from": [7, 6, 10],
 			"to": [9, 7, 14],

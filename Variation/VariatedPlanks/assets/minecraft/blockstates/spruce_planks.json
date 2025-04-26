@@ -1,54 +1,12 @@
 {
   "variants": {
     "": [
-      {
-        "model": "block/spruce_planks/block/0"
-      },
-      {
-        "model": "block/spruce_planks/block/1"
-      },
-      {
-        "model": "block/spruce_planks/block/2"
-      },
-      {
-        "model": "block/spruce_planks/block/3"
-      },
-      {
-        "model": "block/spruce_planks/block/4"
-      },
-      {
-        "model": "block/spruce_planks/block/5"
-      },
-      {
-        "model": "block/spruce_planks/block/6"
-      },
-      {
-        "model": "block/spruce_planks/block/7"
-      },
-      {
-        "model": "block/spruce_planks/block/8"
-      },
-      {
-        "model": "block/spruce_planks/block/9"
-      },
-      {
-        "model": "block/spruce_planks/block/10"
-      },
-      {
-        "model": "block/spruce_planks/block/11"
-      },
-      {
-        "model": "block/spruce_planks/block/12"
-      },
-      {
-        "model": "block/spruce_planks/block/13"
-      },
-      {
-        "model": "block/spruce_planks/block/14"
-      },
-      {
-        "model": "block/spruce_planks/block/15"
-      }
+      { "model": "block/spruce_planks" },
+      { "model": "block/spruce_planks_01" },
+      { "model": "block/spruce_planks_02" },
+      { "model": "block/spruce_planks_03" },
+      { "model": "block/spruce_planks_04" },
+      { "model": "block/spruce_planks_05" }
     ]
   }
 }

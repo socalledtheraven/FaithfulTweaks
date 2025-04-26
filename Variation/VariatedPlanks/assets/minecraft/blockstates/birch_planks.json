@@ -1,54 +1,12 @@
 {
   "variants": {
     "": [
-      {
-        "model": "block/birch_planks/block/0"
-      },
-      {
-        "model": "block/birch_planks/block/1"
-      },
-      {
-        "model": "block/birch_planks/block/2"
-      },
-      {
-        "model": "block/birch_planks/block/3"
-      },
-      {
-        "model": "block/birch_planks/block/4"
-      },
-      {
-        "model": "block/birch_planks/block/5"
-      },
-      {
-        "model": "block/birch_planks/block/6"
-      },
-      {
-        "model": "block/birch_planks/block/7"
-      },
-      {
-        "model": "block/birch_planks/block/8"
-      },
-      {
-        "model": "block/birch_planks/block/9"
-      },
-      {
-        "model": "block/birch_planks/block/10"
-      },
-      {
-        "model": "block/birch_planks/block/11"
-      },
-      {
-        "model": "block/birch_planks/block/12"
-      },
-      {
-        "model": "block/birch_planks/block/13"
-      },
-      {
-        "model": "block/birch_planks/block/14"
-      },
-      {
-        "model": "block/birch_planks/block/15"
-      }
+      { "model": "block/birch_planks" },
+      { "model": "block/birch_planks_01" },
+      { "model": "block/birch_planks_02" },
+      { "model": "block/birch_planks_03" },
+      { "model": "block/birch_planks_04" },
+      { "model": "block/birch_planks_05" }
     ]
   }
 }

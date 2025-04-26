@@ -2,8 +2,8 @@
 	"credit": "Created by Stridey",
 	"ambientocclusion": false,
 	"textures": {
-		"base": "block/cobblestone",
 		"particle": "block/cobblestone",
+		"base": "block/cobblestone",
 		"lever": "block/lever"
 	},
 	"elements": [

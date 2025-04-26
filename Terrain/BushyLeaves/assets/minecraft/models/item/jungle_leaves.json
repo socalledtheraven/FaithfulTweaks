@@ -4,8 +4,7 @@
 	"textures": {
 		"0": "block/jungle_leaves_bush1",
 		"1": "block/jungle_leaves",
-		"3": "block/jungle_leaves_bush1_dark",
-		"particle": "block/jungle_leaves"
+		"3": "block/jungle_leaves_bush1_dark"
 	},
 	"elements": [
 		{

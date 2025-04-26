@@ -1,4 +1,4 @@
 Vanilla Tweaks Resource Pack
-Version: 1.16
+Version: 1.17
 Packs:
 	PrismarineBG

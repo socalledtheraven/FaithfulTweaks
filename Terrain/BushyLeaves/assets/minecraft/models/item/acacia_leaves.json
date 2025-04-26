@@ -4,8 +4,7 @@
 	"textures": {
 		"0": "block/acacia_leaves_bush1",
 		"1": "block/acacia_leaves",
-		"3": "block/acacia_leaves_bush1_dark",
-		"particle": "block/acacia_leaves"
+		"3": "block/acacia_leaves_bush1_dark"
 	},
 	"elements": [
 		{

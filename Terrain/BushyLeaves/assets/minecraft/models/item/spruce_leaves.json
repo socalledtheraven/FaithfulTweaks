@@ -4,8 +4,7 @@
 	"textures": {
 		"0": "block/spruce_leaves_bush1",
 		"1": "block/spruce_leaves",
-		"3": "block/spruce_leaves_bush1_dark",
-		"particle": "block/spruce_leaves"
+		"3": "block/spruce_leaves_bush1_dark"
 	},
 	"elements": [
 		{

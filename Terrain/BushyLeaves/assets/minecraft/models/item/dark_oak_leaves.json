@@ -4,8 +4,7 @@
 	"textures": {
 		"0": "block/oak_leaves_bush1",
 		"1": "block/oak_leaves",
-		"3": "block/oak_leaves_bush1_dark",
-		"particle": "block/oak_leaves"
+		"3": "block/oak_leaves_bush1_dark"
 	},
 	"elements": [
 		{

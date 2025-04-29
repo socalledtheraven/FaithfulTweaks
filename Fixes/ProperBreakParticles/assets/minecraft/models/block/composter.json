@@ -1,7 +1,7 @@
 {
     "parent": "block/block",
     "textures": {
-        "particle": "break/composter",
+        "particle": "block/break/composter",
         "top": "block/composter_top",
         "bottom": "block/composter_bottom",
         "side": "block/composter_side",

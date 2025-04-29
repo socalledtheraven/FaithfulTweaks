@@ -1,7 +1,7 @@
 {
     "parent": "block/ctm",
     "textures": {
-        "all": "block/polished_deepslate_border",
-        "base": "block/polished_deepslate"
+        "all": "block/polished_deepslate",
+        "base": "block/polished_deepslate_borderless"
     }
 }

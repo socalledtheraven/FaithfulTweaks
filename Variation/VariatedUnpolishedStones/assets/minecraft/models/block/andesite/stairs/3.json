@@ -1,1 +1,1 @@
-{"parent":"block/stairs","textures":{"top":"variated/andesite/3","side":"variated/andesite/3","bottom":"variated/andesite/3"}}
+{"parent":"block/stairs","textures":{"top":"block/variated/andesite/3","side":"block/variated/andesite/3","bottom":"block/variated/andesite/3"}}

@@ -1,1 +1,1 @@
-{"parent":"block/outer_stairs","textures":{"top":"variated/granite/11","side":"variated/granite/11","bottom":"variated/granite/11"}}
+{"parent":"block/outer_stairs","textures":{"top":"block/variated/granite/11","side":"block/variated/granite/11","bottom":"block/variated/granite/11"}}

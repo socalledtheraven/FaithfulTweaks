@@ -1,10 +1,8 @@
 {
 	"credit": "Created by Stridey",
-	"parent": "item/bow",
-	"gui_light": "front",
 	"textures": {
-		"bow": "item/bow",
-		"particle": "item/bow"
+		"particle": "item/bow",
+		"bow": "item/bow"
 	},
 	"elements": [
 		{
@@ -319,10 +317,6 @@
 			"translation": [0, 3, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
-		"gui": {
-			"translation": [0, 0.5, 0],
-			"scale": [1, 1, 0.85]
-		},
 		"head": {
 			"rotation": [0, 180, 0],
 			"translation": [0, 13, 7]
@@ -336,6 +330,7 @@
 		{
 			"name": "bow",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 		}
 	]

@@ -1,1 +1,1 @@
-{"parent":"block/slab_top","textures":{"top":"variated/granite/6","side":"variated/granite/6","bottom":"variated/granite/6"}}
+{"parent":"block/slab_top","textures":{"top":"block/variated/granite/6","side":"block/variated/granite/6","bottom":"block/variated/granite/6"}}

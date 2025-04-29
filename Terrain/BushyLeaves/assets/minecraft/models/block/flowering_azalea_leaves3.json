@@ -1,5 +1,5 @@
 {
-    "parent": "block/leaves3",
+    "parent": "block/leaves3_notint",
     "textures": {
         "all": "block/flowering_azalea_leaves",
 		"bush": "block/flowering_azalea_leaves_bush1",

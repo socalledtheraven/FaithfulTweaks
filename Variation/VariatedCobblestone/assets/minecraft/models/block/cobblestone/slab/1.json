@@ -1,1 +1,1 @@
-{"parent":"block/slab","textures":{"top":"variated/cobblestone/1","side":"variated/cobblestone/1","bottom":"variated/cobblestone/1"}}
+{"parent":"block/slab","textures":{"top":"block/cobblestone1","side":"block/cobblestone1","bottom":"block/cobblestone1"}}

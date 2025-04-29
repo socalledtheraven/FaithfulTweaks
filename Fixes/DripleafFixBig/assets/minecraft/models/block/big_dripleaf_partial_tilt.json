@@ -5,7 +5,8 @@
 		"top": "block/big_dripleaf_top",
 		"stem": "block/big_dripleaf_stem_partial_tilt",
 		"side": "block/big_dripleaf_side",
-		"tip": "block/big_dripleaf_tip"
+		"tip": "block/big_dripleaf_tip",
+		"particle": "block/big_dripleaf_top"
 	},
 	"elements": [
 		{

@@ -1,1 +1,1 @@
-{"parent":"block/outer_stairs","textures":{"top":"variated/diorite/11","side":"variated/diorite/11","bottom":"variated/diorite/11"}}
+{"parent":"block/outer_stairs","textures":{"top":"block/variated/diorite/11","side":"block/variated/diorite/11","bottom":"block/variated/diorite/11"}}

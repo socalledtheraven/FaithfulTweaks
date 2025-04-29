@@ -2,6 +2,6 @@
   "parent": "minecraft:block/template_two_candles",
   "textures": {
     "all": "minecraft:block/lime_candle_lit",
-    "particle": "minecraft:break/lime_candle_lit"
+    "particle": "minecraft:block/break/lime_candle_lit"
   }
 }

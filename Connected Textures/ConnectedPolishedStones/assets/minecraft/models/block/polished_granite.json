@@ -1,7 +1,7 @@
 {
     "parent": "block/ctm",
     "textures": {
-        "all": "block/polished_granite_border",
-        "base": "block/polished_granite"
+        "all": "block/polished_granite",
+        "base": "block/polished_granite_borderless"
     }
 }

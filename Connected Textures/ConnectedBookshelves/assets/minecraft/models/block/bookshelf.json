@@ -1,5 +1,5 @@
 {
-    "parent": "block/ctm_multiple",
+    "parent": "block/ctm_row",
     "textures": {
         "all": "block/bookshelf",
         "north": "block/bookshelf_borderless",
@@ -7,6 +7,7 @@
         "east": "block/bookshelf_borderless",
         "west": "block/bookshelf_borderless",
         "up": "block/oak_planks",
-        "down": "block/oak_planks"
+        "down": "block/oak_planks",
+        "particle": "block/bookshelf"
     }
 }

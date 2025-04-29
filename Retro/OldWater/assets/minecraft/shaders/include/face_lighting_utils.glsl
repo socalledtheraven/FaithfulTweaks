@@ -2,11 +2,11 @@
 
 // Checks if something is *roughly* equal to something else, helps stop jank.
 
-bool roughly_equal(float input, float target) {
+bool roughly_equal(float inputValue, float target) {
 	
 	float targetLess = target - 0.01;
 	float targetMore = target + 0.01;
-	return (input > targetLess && input < targetMore);
+	return (inputValue > targetLess && inputValue < targetMore);
 	
 }
 

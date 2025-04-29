@@ -1,1 +1,1 @@
-{"parent":"block/slab_top","textures":{"top":"variated/diorite/15","side":"variated/diorite/15","bottom":"variated/diorite/15"}}
+{"parent":"block/slab_top","textures":{"top":"block/variated/diorite/15","side":"block/variated/diorite/15","bottom":"block/variated/diorite/15"}}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "waterlogged=false": {
+      "model": "minecraft:block/mangrove_leaves"
+    },
+    "waterlogged=true": {
+      "model": "minecraft:block/mangrove_leaves_waterlogged"
+    }
+  }
+}

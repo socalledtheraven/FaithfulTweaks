@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "waterlogged=false": {
+      "model": "minecraft:block/spruce_leaves"
+    },
+    "waterlogged=true": {
+      "model": "minecraft:block/spruce_leaves_waterlogged"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/cherry_planks" },
+      { "model": "block/cherry_planks_01" },
+      { "model": "block/cherry_planks_02" },
+      { "model": "block/cherry_planks_03" },
+      { "model": "block/cherry_planks_04" },
+      { "model": "block/cherry_planks_05" }
+    ]
+  }
+}

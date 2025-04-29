@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "waterlogged=false": {
+      "model": "minecraft:block/jungle_leaves"
+    },
+    "waterlogged=true": {
+      "model": "minecraft:block/jungle_leaves_waterlogged"
+    }
+  }
+}

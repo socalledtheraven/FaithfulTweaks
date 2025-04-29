@@ -1,79 +1,79 @@
 {
-   "multipart": [
-       {   "when": { "note": "0"},
-           "apply": { "model": "minecraft:block/note_block/block/0" }
-       },
-       {   "when": { "note": "1"},
-           "apply": { "model": "minecraft:block/note_block/block/1" }
-       },
-       {   "when": { "note": "2"},
-           "apply": { "model": "minecraft:block/note_block/block/2" }
-       },
-       {   "when": { "note": "3"},
-           "apply": { "model": "minecraft:block/note_block/block/3" }
-       },
-       {   "when": { "note": "4"},
-           "apply": { "model": "minecraft:block/note_block/block/4" }
-       },
-       {   "when": { "note": "5"},
-           "apply": { "model": "minecraft:block/note_block/block/5" }
-       },
-       {   "when": { "note": "6"},
-           "apply": { "model": "minecraft:block/note_block/block/6" }
-       },
-       {   "when": { "note": "7"},
-           "apply": { "model": "minecraft:block/note_block/block/7" }
-       },
-       {   "when": { "note": "8"},
-           "apply": { "model": "minecraft:block/note_block/block/8" }
-       },
-       {   "when": { "note": "9"},
-           "apply": { "model": "minecraft:block/note_block/block/9" }
-       },
-       {   "when": { "note": "10"},
-           "apply": { "model": "minecraft:block/note_block/block/10" }
-       },
-       {   "when": { "note": "11"},
-           "apply": { "model": "minecraft:block/note_block/block/11" }
-       },
-       {   "when": { "note": "12"},
-           "apply": { "model": "minecraft:block/note_block/block/12" }
-       },
-       {   "when": { "note": "13"},
-           "apply": { "model": "minecraft:block/note_block/block/13" }
-       },
-       {   "when": { "note": "14"},
-           "apply": { "model": "minecraft:block/note_block/block/14" }
-       },
-       {   "when": { "note": "15"},
-           "apply": { "model": "minecraft:block/note_block/block/15" }
-       },
-       {   "when": { "note": "16"},
-           "apply": { "model": "minecraft:block/note_block/block/16" }
-       },
-       {   "when": { "note": "17"},
-           "apply": { "model": "minecraft:block/note_block/block/17" }
-       },
-       {   "when": { "note": "18"},
-           "apply": { "model": "minecraft:block/note_block/block/18" }
-       },
-       {   "when": { "note": "19"},
-           "apply": { "model": "minecraft:block/note_block/block/19" }
-       },
-       {   "when": { "note": "20"},
-           "apply": { "model": "minecraft:block/note_block/block/20" }
-       },
-       {   "when": { "note": "21"},
-           "apply": { "model": "minecraft:block/note_block/block/21" }
-       },
-       {   "when": { "note": "22"},
-           "apply": { "model": "minecraft:block/note_block/block/22" }
-       },
-       {   "when": { "note": "23"},
-           "apply": { "model": "minecraft:block/note_block/block/23" }
-       },
-       {   "when": { "note": "24"},
-           "apply": { "model": "minecraft:block/note_block/block/24" }
-       }
-   ]
+	"variants": {
+		"note=0": {
+			"model": "block/note_block_0"
+		},
+		"note=1": {
+			"model": "block/note_block_1"
+		},
+		"note=2": {
+			"model": "block/note_block_2"
+		},
+		"note=3": {
+			"model": "block/note_block_3"
+		},
+		"note=4": {
+			"model": "block/note_block_4"
+		},
+		"note=5": {
+			"model": "block/note_block_5"
+		},
+		"note=6": {
+			"model": "block/note_block_6"
+		},
+		"note=7": {
+			"model": "block/note_block_7"
+		},
+		"note=8": {
+			"model": "block/note_block_8"
+		},
+		"note=9": {
+			"model": "block/note_block_9"
+		},
+		"note=10": {
+			"model": "block/note_block_10"
+		},
+		"note=11": {
+			"model": "block/note_block_11"
+		},
+		"note=12": {
+			"model": "block/note_block_12"
+		},
+		"note=13": {
+			"model": "block/note_block_13"
+		},
+		"note=14": {
+			"model": "block/note_block_14"
+		},
+		"note=15": {
+			"model": "block/note_block_15"
+		},
+		"note=16": {
+			"model": "block/note_block_16"
+		},
+		"note=17": {
+			"model": "block/note_block_17"
+		},
+		"note=18": {
+			"model": "block/note_block_18"
+		},
+		"note=19": {
+			"model": "block/note_block_19"
+		},
+		"note=20": {
+			"model": "block/note_block_20"
+		},
+		"note=21": {
+			"model": "block/note_block_21"
+		},
+		"note=22": {
+			"model": "block/note_block_22"
+		},
+		"note=23": {
+			"model": "block/note_block_23"
+		},
+		"note=24": {
+			"model": "block/note_block_24"
+		}
+	}
 }

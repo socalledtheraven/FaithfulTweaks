@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "top": "minecraft:block/bamboo_planks_03",
+    "side": "minecraft:block/bamboo_planks_03",
+    "bottom": "minecraft:block/bamboo_planks_03"
+  }
+}

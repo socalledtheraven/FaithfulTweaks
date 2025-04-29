@@ -1,4 +1,6 @@
 {
+	"credit": "Created by Stridey",
+	"texture": "zombified_piglin.png",
 	"textureSize": [64, 64],
 	"models": [
 		{
@@ -8,10 +10,7 @@
 			"translate": [0, -24, 0],
 			"boxes": [
 				{"coordinates": [-4, 24, -4, 8, 8, 8], "textureOffset": [0, 0]},
-				{"coordinates": [-2, 24, -5, 4, 4, 1], "textureOffset": [24, 0]},
-				{"coordinates": [-3, 24, -5, 1, 2, 1], "textureOffset": [2, 4]},
-				{"coordinates": [2, 24, -5, 1, 2, 1], "textureOffset": [2, 0]},
-				{"coordinates": [-4, 24, -4, 8, 8, 8], "textureOffset": [32, 0], "sizeAdd": 0.25}
+				{"coordinates": [-4, 24, -4, 8, 8, 8], "textureOffset": [32, 0], "sizeAdd": 0.5}
 			]
 		},
 		{
@@ -26,18 +25,17 @@
 			"invertAxis": "xy",
 			"translate": [0, -24, 0],
 			"boxes": [
-				{"coordinates": [-4, 12, -2, 8, 12, 4], "textureOffset": [16, 16]},
-				{"coordinates": [-4, 12, -2, 8, 12, 4], "textureOffset": [16, 32], "sizeAdd": 0.25}
+				{"coordinates": [-4, 12, -2, 8, 12, 4], "textureOffset": [16, 16]}
 			]
 		},
 		{
 			"part": "left_arm",
 			"id": "left_arm",
 			"invertAxis": "xy",
+			"mirrorTexture": "u",
 			"translate": [5, -22, 0],
 			"boxes": [
-				{"coordinates": [-8, 12, -2, 4, 12, 4], "textureOffset": [40, 16]},
-				{"coordinates": [-8, 12, -2, 4, 12, 4], "textureOffset": [48, 48], "sizeAdd": 0.25}
+				{"coordinates": [-8, 12, -2, 4, 12, 4], "textureOffset": [40, 16]}
 			]
 		},
 		{
@@ -46,18 +44,17 @@
 			"invertAxis": "xy",
 			"translate": [-5, -22, 0],
 			"boxes": [
-				{"coordinates": [4, 12, -2, 4, 12, 4], "textureOffset": [40, 16]},
-				{"coordinates": [4, 12, -2, 4, 12, 4], "textureOffset": [40, 32], "sizeAdd": 0.25}
+				{"coordinates": [4, 12, -2, 4, 12, 4], "textureOffset": [40, 16]}
 			]
 		},
 		{
 			"part": "left_leg",
 			"id": "left_leg",
 			"invertAxis": "xy",
+			"mirrorTexture": "u",
 			"translate": [2, -12, 0],
 			"boxes": [
-				{"coordinates": [-4, 0, -2, 4, 12, 4], "textureOffset": [0, 16]},
-				{"coordinates": [-4, 0, -2, 4, 12, 4], "textureOffset": [0, 48], "sizeAdd": 0.25}
+				{"coordinates": [-4, 0, -2, 4, 12, 4], "textureOffset": [0, 16]}
 			]
 		},
 		{
@@ -66,8 +63,7 @@
 			"invertAxis": "xy",
 			"translate": [-2, -12, 0],
 			"boxes": [
-				{"coordinates": [0, 0, -2, 4, 12, 4], "textureOffset": [0, 16]},
-				{"coordinates": [0, 0, -2, 4, 12, 4], "textureOffset": [0, 32], "sizeAdd": 0.25}
+				{"coordinates": [0, 0, -2, 4, 12, 4], "textureOffset": [0, 16]}
 			]
 		},
 		{

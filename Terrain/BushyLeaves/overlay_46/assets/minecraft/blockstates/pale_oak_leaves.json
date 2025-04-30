@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/pale_oak_leaves1" },
+		{ "model": "block/pale_oak_leaves2" },
+		{ "model": "block/pale_oak_leaves3" },
+		{ "model": "block/pale_oak_leaves4" },
+		{ "model": "block/pale_oak_leaves5" }
+		]
+    }
+}

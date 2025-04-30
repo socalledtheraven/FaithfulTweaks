@@ -1,0 +1,157 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "item/template_spawn_egg",
+	"textures": {
+		"texture": "item/horse_spawn_egg"
+	},
+	"elements": [
+		{
+			"name": "horse_spawn_egg_0",
+			"from": [5, 0, 7.5],
+			"to": [10, 16, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [10, 0, 5, 16], "texture": "#texture"},
+				"east": {"uv": [9, 0, 10, 16], "texture": "#texture"},
+				"south": {"uv": [5, 0, 10, 16], "texture": "#texture"},
+				"west": {"uv": [5, 0, 6, 16], "texture": "#texture"},
+				"up": {"uv": [5, 0, 10, 1], "texture": "#texture"},
+				"down": {"uv": [5, 15, 10, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "horse_spawn_egg_1",
+			"from": [1, 10, 7.5],
+			"to": [5, 15, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [5, 1, 1, 6], "texture": "#texture"},
+				"south": {"uv": [1, 1, 5, 6], "texture": "#texture"},
+				"west": {"uv": [1, 1, 2, 6], "texture": "#texture"},
+				"up": {"uv": [1, 1, 5, 2], "texture": "#texture"},
+				"down": {"uv": [1, 5, 5, 6], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "horse_spawn_egg_2",
+			"from": [10, 0, 7.5],
+			"to": [11, 15, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [11, 1, 10, 16], "texture": "#texture"},
+				"east": {"uv": [10, 1, 11, 16], "texture": "#texture"},
+				"south": {"uv": [10, 1, 11, 16], "texture": "#texture"},
+				"up": {"uv": [10, 1, 11, 2], "texture": "#texture"},
+				"down": {"uv": [10, 15, 11, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "horse_spawn_egg_3",
+			"from": [12, 10, 7.5],
+			"to": [15, 15, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [15, 1, 12, 6], "texture": "#texture"},
+				"east": {"uv": [14, 1, 15, 6], "texture": "#texture"},
+				"south": {"uv": [12, 1, 15, 6], "texture": "#texture"},
+				"west": {"uv": [12, 1, 13, 6], "texture": "#texture"},
+				"up": {"uv": [12, 1, 15, 2], "texture": "#texture"},
+				"down": {"uv": [12, 5, 15, 6], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "horse_spawn_egg_4",
+			"from": [11, 1, 7.5],
+			"to": [12, 14, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [12, 2, 11, 15], "texture": "#texture"},
+				"south": {"uv": [11, 2, 12, 15], "texture": "#texture"},
+				"up": {"uv": [11, 2, 12, 3], "texture": "#texture"},
+				"down": {"uv": [11, 14, 12, 15], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "horse_spawn_egg_5",
+			"from": [2, 2, 7.5],
+			"to": [5, 10, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [5, 6, 2, 14], "texture": "#texture"},
+				"south": {"uv": [2, 6, 5, 14], "texture": "#texture"},
+				"west": {"uv": [2, 6, 3, 14], "texture": "#texture"},
+				"down": {"uv": [2, 13, 5, 14], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "horse_spawn_egg_6",
+			"from": [12, 2, 7.5],
+			"to": [14, 10, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [14, 6, 12, 14], "texture": "#texture"},
+				"east": {"uv": [13, 6, 14, 14], "texture": "#texture"},
+				"south": {"uv": [12, 6, 14, 14], "texture": "#texture"},
+				"down": {"uv": [12, 13, 14, 14], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "horse_spawn_egg_7",
+			"from": [1, 3, 7.5],
+			"to": [2, 9, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [2, 7, 1, 13], "texture": "#texture"},
+				"south": {"uv": [1, 7, 2, 13], "texture": "#texture"},
+				"west": {"uv": [1, 7, 2, 13], "texture": "#texture"},
+				"up": {"uv": [1, 7, 2, 8], "texture": "#texture"},
+				"down": {"uv": [1, 12, 2, 13], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "horse_spawn_egg_8",
+			"from": [14, 3, 7.5],
+			"to": [15, 9, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [15, 7, 14, 13], "texture": "#texture"},
+				"east": {"uv": [14, 7, 15, 13], "texture": "#texture"},
+				"south": {"uv": [14, 7, 15, 13], "texture": "#texture"},
+				"up": {"uv": [14, 7, 15, 8], "texture": "#texture"},
+				"down": {"uv": [14, 12, 15, 13], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "horse_spawn_egg_9",
+			"from": [3, 1, 7.5],
+			"to": [5, 2, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [5, 14, 3, 15], "texture": "#texture"},
+				"south": {"uv": [3, 14, 5, 15], "texture": "#texture"},
+				"west": {"uv": [3, 14, 4, 15], "texture": "#texture"},
+				"down": {"uv": [3, 14, 5, 15], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "horse_spawn_egg_10",
+			"from": [12, 1, 7.5],
+			"to": [13, 2, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [13, 14, 12, 15], "texture": "#texture"},
+				"east": {"uv": [12, 14, 13, 15], "texture": "#texture"},
+				"south": {"uv": [12, 14, 13, 15], "texture": "#texture"},
+				"down": {"uv": [12, 14, 13, 15], "texture": "#texture"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "horse_spawn_egg",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+		}
+	]
+}

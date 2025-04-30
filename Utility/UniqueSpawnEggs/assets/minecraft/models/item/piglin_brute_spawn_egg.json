@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "item/piglin_spawn_egg",
+	"textures": {
+		"texture": "item/piglin_brute_spawn_egg"
+	}
+}

@@ -1,1 +1,1 @@
-{"providers":[{"type":"bitmap","file":"minecraft:gui\/container\/brewing_guide_left.png","ascent":13,"height":166,"chars":["\ueff1"]},{"type":"bitmap","file":"minecraft:gui\/container\/brewing_guide_right.png","ascent":13,"height":166,"chars":["\ueff2"]}]}
+{"providers":[{"type":"bitmap","file":"minecraft:gui\/container\/brewing_guide_left.png","ascent":13,"height":100,"chars":["\ueff1"]},{"type":"bitmap","file":"minecraft:gui\/container\/brewing_guide_right.png","ascent":13,"height":206,"chars":["\ueff2"]}]}

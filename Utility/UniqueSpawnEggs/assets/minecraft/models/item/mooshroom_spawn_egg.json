@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "item/cow_spawn_egg",
+	"textures": {
+		"texture": "item/mooshroom_spawn_egg"
+	}
+}

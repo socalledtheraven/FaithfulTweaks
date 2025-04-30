@@ -1,0 +1,23 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/thin_block",
+	"textures": {
+		"particle": "block/vt_pale_oak_trapdoor",
+		"front": "block/vt_pale_oak_trapdoor",
+		"sides": "block/pale_oak_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 3], "texture": "#sides", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 3], "texture": "#sides", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 3], "texture": "#sides", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 3], "texture": "#sides", "cullface": "west"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#front"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#front", "cullface": "down"}
+			}
+		}
+	]
+}

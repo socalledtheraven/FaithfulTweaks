@@ -21,6 +21,11 @@
             "prefix": "entity/chest_boat/"
         },
         {
+            "type": "directory",
+            "source": "entity/end_crystal",
+            "prefix": "entity/end_crystal/"
+        },
+        {
             "type": "single",
             "resource": "entity/minecart"
         }

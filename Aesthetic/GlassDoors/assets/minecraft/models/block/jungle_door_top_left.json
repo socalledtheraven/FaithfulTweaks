@@ -1,0 +1,21 @@
+{
+	"credit": "Created by Stridey",
+	"textures": {
+		"particle": "block/jungle_door_top",
+		"front": "block/vt_jungle_door_top",
+		"top": "block/jungle_door_top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [3, 0, 0, 16], "texture": "#front", "cullface": "north"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#front"},
+				"south": {"uv": [0, 0, 3, 16], "texture": "#front", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#front", "cullface": "west"},
+				"up": {"uv": [0, 3, 16, 0], "rotation": 90, "texture": "#top", "cullface": "up"}
+			}
+		}
+	]
+}

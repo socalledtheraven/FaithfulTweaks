@@ -1,0 +1,36 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:damage",
+    "entries": [
+      {
+        "threshold": 0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/flint_and_steel"
+        }
+      },
+      {
+        "threshold": 0.85,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/flint_and_steel/flint_and_steel_02"
+        }
+      },
+      {
+        "threshold": 0.9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/flint_and_steel/flint_and_steel_03"
+        }
+      },
+      {
+        "threshold": 0.95,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/flint_and_steel/flint_and_steel_04"
+        }
+      }
+    ]
+  }
+}

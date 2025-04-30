@@ -1,0 +1,36 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:damage",
+    "entries": [
+      {
+        "threshold": 0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/stone_sword"
+        }
+      },
+      {
+        "threshold": 0.85,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/stone_sword/stone_sword_1"
+        }
+      },
+      {
+        "threshold": 0.9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/stone_sword/stone_sword_2"
+        }
+      },
+      {
+        "threshold": 0.95,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/stone_sword/stone_sword_3"
+        }
+      }
+    ]
+  }
+}

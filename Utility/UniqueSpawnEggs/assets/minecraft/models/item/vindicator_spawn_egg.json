@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "item/creeper_spawn_egg",
+	"textures": {
+		"texture": "item/vindicator_spawn_egg"
+	}
+}

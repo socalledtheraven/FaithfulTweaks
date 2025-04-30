@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "item/cod_spawn_egg",
+	"textures": {
+		"texture": "item/tropical_fish_spawn_egg"
+	}
+}

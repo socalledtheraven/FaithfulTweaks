@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "item/squid_spawn_egg",
+	"textures": {
+		"texture": "item/glow_squid_spawn_egg"
+	}
+}

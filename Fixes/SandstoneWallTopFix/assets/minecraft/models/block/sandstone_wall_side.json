@@ -1,0 +1,23 @@
+{
+	"credit": "Created by Stridey",
+	"textures": {
+		"particle": "block/sandstone",
+		"side": "block/sandstone",
+		"top": "block/sandstone_top",
+		"bottom": "block/sandstone_bottom"
+	},
+	"elements": [
+		{
+			"name": "wall",
+			"from": [5, 0, 0],
+			"to": [11, 14, 8],
+			"faces": {
+				"north": {"uv": [5, 2, 11, 16], "texture": "#side", "cullface": "north"},
+				"east": {"uv": [8, 2, 16, 16], "texture": "#side"},
+				"west": {"uv": [0, 2, 8, 16], "texture": "#side"},
+				"up": {"uv": [5, 0, 11, 8], "texture": "#top"},
+				"down": {"uv": [5, 8, 11, 16], "texture": "#bottom", "cullface": "down"}
+			}
+		}
+	]
+}

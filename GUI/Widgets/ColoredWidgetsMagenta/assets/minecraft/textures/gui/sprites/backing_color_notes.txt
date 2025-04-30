@@ -1,0 +1,4 @@
+apply:
+35 brightness
+25 contrast
+to widget

@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "item/blaze_spawn_egg",
+	"textures": {
+		"texture": "item/enderman_spawn_egg"
+	}
+}

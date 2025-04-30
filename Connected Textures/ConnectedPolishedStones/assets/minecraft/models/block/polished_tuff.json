@@ -1,0 +1,7 @@
+{
+    "parent": "block/ctm",
+    "textures": {
+        "all": "block/polished_tuff",
+        "base": "block/polished_tuff_borderless"
+    }
+}

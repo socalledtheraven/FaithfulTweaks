@@ -1,0 +1,159 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "item/template_spawn_egg",
+	"textures": {
+		"texture": "item/rabbit_spawn_egg"
+	},
+	"elements": [
+		{
+			"name": "rabbit_spawn_egg_0",
+			"from": [4, 3, 7.5],
+			"to": [6, 16, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [6, 0, 4, 13], "texture": "#texture"},
+				"east": {"uv": [5, 0, 6, 13], "texture": "#texture"},
+				"south": {"uv": [4, 0, 6, 13], "texture": "#texture"},
+				"west": {"uv": [4, 0, 5, 13], "texture": "#texture"},
+				"up": {"uv": [4, 0, 6, 1], "texture": "#texture"},
+				"down": {"uv": [4, 12, 6, 13], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "rabbit_spawn_egg_1",
+			"from": [10, 3, 7.5],
+			"to": [12, 16, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [12, 0, 10, 13], "texture": "#texture"},
+				"east": {"uv": [11, 0, 12, 13], "texture": "#texture"},
+				"south": {"uv": [10, 0, 12, 13], "texture": "#texture"},
+				"west": {"uv": [10, 0, 11, 13], "texture": "#texture"},
+				"up": {"uv": [10, 0, 12, 1], "texture": "#texture"},
+				"down": {"uv": [10, 12, 12, 13], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "rabbit_spawn_egg_2",
+			"from": [3, 3, 7.5],
+			"to": [4, 15, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [4, 1, 3, 13], "texture": "#texture"},
+				"south": {"uv": [3, 1, 4, 13], "texture": "#texture"},
+				"west": {"uv": [3, 1, 4, 13], "texture": "#texture"},
+				"up": {"uv": [3, 1, 4, 2], "texture": "#texture"},
+				"down": {"uv": [3, 12, 4, 13], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "rabbit_spawn_egg_3",
+			"from": [6, 2, 7.5],
+			"to": [7, 15, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [7, 1, 6, 14], "texture": "#texture"},
+				"east": {"uv": [6, 1, 7, 14], "texture": "#texture"},
+				"south": {"uv": [6, 1, 7, 14], "texture": "#texture"},
+				"up": {"uv": [6, 1, 7, 2], "texture": "#texture"},
+				"down": {"uv": [6, 13, 7, 14], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "rabbit_spawn_egg_4",
+			"from": [9, 2, 7.5],
+			"to": [10, 15, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [10, 1, 9, 14], "texture": "#texture"},
+				"south": {"uv": [9, 1, 10, 14], "texture": "#texture"},
+				"west": {"uv": [9, 1, 10, 14], "texture": "#texture"},
+				"up": {"uv": [9, 1, 10, 2], "texture": "#texture"},
+				"down": {"uv": [9, 13, 10, 14], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "rabbit_spawn_egg_5",
+			"from": [12, 4, 7.5],
+			"to": [13, 15, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [13, 1, 12, 12], "texture": "#texture"},
+				"east": {"uv": [12, 1, 13, 12], "texture": "#texture"},
+				"south": {"uv": [12, 1, 13, 12], "texture": "#texture"},
+				"up": {"uv": [12, 1, 13, 2], "texture": "#texture"},
+				"down": {"uv": [12, 11, 13, 12], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "rabbit_spawn_egg_6",
+			"from": [7, 2, 7.5],
+			"to": [9, 13, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [9, 3, 7, 14], "texture": "#texture"},
+				"south": {"uv": [7, 3, 9, 14], "texture": "#texture"},
+				"up": {"uv": [7, 3, 9, 4], "texture": "#texture"},
+				"down": {"uv": [7, 13, 9, 14], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "rabbit_spawn_egg_7",
+			"from": [2, 3, 7.5],
+			"to": [3, 7, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [3, 9, 2, 13], "texture": "#texture"},
+				"south": {"uv": [2, 9, 3, 13], "texture": "#texture"},
+				"west": {"uv": [2, 9, 3, 13], "texture": "#texture"},
+				"up": {"uv": [2, 9, 3, 10], "texture": "#texture"},
+				"down": {"uv": [2, 12, 3, 13], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "rabbit_spawn_egg_8",
+			"from": [1, 4, 7.5],
+			"to": [2, 6, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [2, 10, 1, 12], "texture": "#texture"},
+				"south": {"uv": [1, 10, 2, 12], "texture": "#texture"},
+				"west": {"uv": [1, 10, 2, 12], "texture": "#texture"},
+				"up": {"uv": [1, 10, 2, 11], "texture": "#texture"},
+				"down": {"uv": [1, 11, 2, 12], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "rabbit_spawn_egg_9",
+			"from": [5, 2, 7.5],
+			"to": [6, 3, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [6, 13, 5, 14], "texture": "#texture"},
+				"south": {"uv": [5, 13, 6, 14], "texture": "#texture"},
+				"west": {"uv": [5, 13, 6, 14], "texture": "#texture"},
+				"down": {"uv": [5, 13, 6, 14], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "rabbit_spawn_egg_10",
+			"from": [10, 2, 7.5],
+			"to": [11, 3, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [11, 13, 10, 14], "texture": "#texture"},
+				"east": {"uv": [10, 13, 11, 14], "texture": "#texture"},
+				"south": {"uv": [10, 13, 11, 14], "texture": "#texture"},
+				"down": {"uv": [10, 13, 11, 14], "texture": "#texture"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "rabbit_spawn_egg",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+		}
+	]
+}

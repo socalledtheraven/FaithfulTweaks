@@ -1,4 +1,4 @@
 Vanilla Tweaks Resource Pack
-Version: 1.20
+Version: 1.21
 Packs:
 	XmasChests

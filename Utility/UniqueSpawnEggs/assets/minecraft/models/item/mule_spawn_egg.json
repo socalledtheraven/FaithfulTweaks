@@ -1,7 +1,0 @@
-{
-	"credit": "Created by Stridey",
-	"parent": "item/donkey_spawn_egg",
-	"textures": {
-		"texture": "item/mule_spawn_egg"
-	}
-}

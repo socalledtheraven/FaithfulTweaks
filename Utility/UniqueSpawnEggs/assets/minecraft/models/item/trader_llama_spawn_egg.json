@@ -1,7 +1,0 @@
-{
-	"credit": "Created by Stridey",
-	"parent": "item/llama_spawn_egg",
-	"textures": {
-		"texture": "item/trader_llama_spawn_egg"
-	}
-}

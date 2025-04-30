@@ -1,7 +1,0 @@
-{
-	"credit": "Created by Stridey",
-	"parent": "item/blaze_spawn_egg",
-	"textures": {
-		"texture": "item/slime_spawn_egg"
-	}
-}

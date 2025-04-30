@@ -1,7 +1,0 @@
-{
-	"credit": "Created by Stridey",
-	"parent": "item/cat_spawn_egg",
-	"textures": {
-		"texture": "item/ocelot_spawn_egg"
-	}
-}

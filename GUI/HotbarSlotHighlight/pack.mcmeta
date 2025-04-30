@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "pack_format": 34,
+		"supported_formats": { "min_inclusive": 34, "max_inclusive": 55},
+        "description": "\u00a76Vanilla Tweaks 1.21\n\u00a7evanillatweaks.net"
+    },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 42, "max_inclusive": 55},
+				"directory": "overlay_42"
+			},
+			{
+				"formats": {"min_inclusive": 46, "max_inclusive": 55},
+				"directory": "overlay_46"
+			},
+			{
+				"formats": {"min_inclusive": 53, "max_inclusive": 55},
+				"directory": "overlay_53"
+			}
+		]
+	}
+}
